@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Etmita: compliant B2B software for Europe" src="./assets/banner-dark.svg" width="100%">
+  <img alt="ETMiTA: compliant B2B software for Europe" src="./assets/banner-dark.svg" width="100%">
 </picture>
 
 <p align="center">
